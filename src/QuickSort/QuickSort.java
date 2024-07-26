@@ -1,0 +1,7 @@
+package QuickSort;
+
+class QuickSort
+{
+    
+
+}
